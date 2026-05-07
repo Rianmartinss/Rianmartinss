@@ -44,133 +44,127 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
 
 ---
 
-### 🏆 Conquistas — Linguagens & Tecnologias
+### 💎 Domínio Tech
 
-<div align="center">
+<p align="center">
 
 <!-- HTML5 -->
-<div style="display:inline-block; background:linear-gradient(135deg,#161B22,#0D1117); border:1px solid #30363D; border-radius:12px; padding:14px 18px; margin:8px; min-width:200px; box-shadow:0 4px 20px rgba(56,189,248,0.10);">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" style="filter:drop-shadow(0 0 8px #E34F26)">
-    <span style="color:#F0F6FC; font-weight:700; font-size:14px; font-family:Segoe UI, sans-serif;">HTML5</span>
-    <span style="color:#BF91F3; font-weight:700; font-size:13px; margin-left:auto;">74.7%</span>
-  </div>
-  <div style="background:#21262D; border-radius:8px; height:8px; overflow:hidden;">
-    <div style="background:linear-gradient(90deg,#E34F26,#F06529); height:100%; width:74.7%; border-radius:8px;"></div>
-  </div>
-</div>
+<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+  <rect width="178" height="60" rx="8" fill="none" stroke="#E34F26" stroke-width="1.2" stroke-opacity="0.25"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" x="10" y="14" width="26" height="26"/>
+  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">HTML5</text>
+  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">74.7%</text>
+  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
+  <rect x="42" y="33" width="86.7" height="4" rx="2" fill="#E34F26"/>
+  <circle cx="170" cy="6" r="3.5" fill="#BF91F3" opacity="0.6"/>
+</svg>
 
 <!-- CSS3 -->
-<div style="display:inline-block; background:linear-gradient(135deg,#161B22,#0D1117); border:1px solid #30363D; border-radius:12px; padding:14px 18px; margin:8px; min-width:200px; box-shadow:0 4px 20px rgba(56,189,248,0.10);">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" style="filter:drop-shadow(0 0 8px #1572B6)">
-    <span style="color:#F0F6FC; font-weight:700; font-size:14px; font-family:Segoe UI, sans-serif;">CSS3</span>
-    <span style="color:#BF91F3; font-weight:700; font-size:13px; margin-left:auto;">25.3%</span>
-  </div>
-  <div style="background:#21262D; border-radius:8px; height:8px; overflow:hidden;">
-    <div style="background:linear-gradient(90deg,#1572B6,#38BDF8); height:100%; width:25.3%; border-radius:8px;"></div>
-  </div>
-</div>
+<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+  <rect width="178" height="60" rx="8" fill="none" stroke="#1572B6" stroke-width="1.2" stroke-opacity="0.25"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" x="10" y="14" width="26" height="26"/>
+  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">CSS3</text>
+  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">25.3%</text>
+  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
+  <rect x="42" y="33" width="29.3" height="4" rx="2" fill="#1572B6"/>
+  <circle cx="170" cy="6" r="3.5" fill="#BF91F3" opacity="0.6"/>
+</svg>
 
 <!-- JavaScript -->
-<div style="display:inline-block; background:linear-gradient(135deg,#161B22,#0D1117); border:1px solid #30363D; border-radius:12px; padding:14px 18px; margin:8px; min-width:200px; box-shadow:0 4px 20px rgba(191,145,243,0.12);">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" style="filter:drop-shadow(0 0 8px #F7DF1E)">
-    <span style="color:#F0F6FC; font-weight:700; font-size:14px; font-family:Segoe UI, sans-serif;">JavaScript</span>
-    <span style="color:#BF91F3; font-weight:700; font-size:13px; margin-left:auto;">40%</span>
-  </div>
-  <div style="background:#21262D; border-radius:8px; height:8px; overflow:hidden;">
-    <div style="background:linear-gradient(90deg,#F7DF1E,#F0DB4F); height:100%; width:40%; border-radius:8px;"></div>
-  </div>
-</div>
+<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#F7DF1E" stroke-width="1.2" stroke-opacity="0.3"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" x="10" y="14" width="26" height="26"/>
+  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">JavaScript</text>
+  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">40%</text>
+  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
+  <rect x="42" y="33" width="46.4" height="4" rx="2" fill="#F7DF1E"/>
+  <circle cx="170" cy="6" r="3.5" fill="#38BDF8" opacity="0.5"/>
+</svg>
 
 <!-- TypeScript -->
-<div style="display:inline-block; background:linear-gradient(135deg,#161B22,#0D1117); border:1px solid #30363D; border-radius:12px; padding:14px 18px; margin:8px; min-width:200px; box-shadow:0 4px 20px rgba(56,189,248,0.10);">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" style="filter:drop-shadow(0 0 8px #3178C6)">
-    <span style="color:#F0F6FC; font-weight:700; font-size:14px; font-family:Segoe UI, sans-serif;">TypeScript</span>
-    <span style="color:#BF91F3; font-weight:700; font-size:13px; margin-left:auto;">30%</span>
-  </div>
-  <div style="background:#21262D; border-radius:8px; height:8px; overflow:hidden;">
-    <div style="background:linear-gradient(90deg,#3178C6,#38BDF8); height:100%; width:30%; border-radius:8px;"></div>
-  </div>
-</div>
+<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" x="10" y="14" width="26" height="26"/>
+  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">TypeScript</text>
+  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">30%</text>
+  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
+  <rect x="42" y="33" width="34.8" height="4" rx="2" fill="#3178C6"/>
+  <circle cx="170" cy="6" r="3.5" fill="#38BDF8" opacity="0.5"/>
+</svg>
 
 <!-- React -->
-<div style="display:inline-block; background:linear-gradient(135deg,#161B22,#0D1117); border:1px solid #30363D; border-radius:12px; padding:14px 18px; margin:8px; min-width:200px; box-shadow:0 4px 20px rgba(56,189,248,0.12);">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30" style="filter:drop-shadow(0 0 8px #61DAFB)">
-    <span style="color:#F0F6FC; font-weight:700; font-size:14px; font-family:Segoe UI, sans-serif;">React</span>
-    <span style="color:#BF91F3; font-weight:700; font-size:13px; margin-left:auto;">25%</span>
-  </div>
-  <div style="background:#21262D; border-radius:8px; height:8px; overflow:hidden;">
-    <div style="background:linear-gradient(90deg,#61DAFB,#38BDF8); height:100%; width:25%; border-radius:8px;"></div>
-  </div>
-</div>
+<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" x="10" y="14" width="26" height="26"/>
+  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">React</text>
+  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">25%</text>
+  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
+  <rect x="42" y="33" width="29.0" height="4" rx="2" fill="#61DAFB"/>
+  <circle cx="170" cy="6" r="3.5" fill="#38BDF8" opacity="0.5"/>
+</svg>
+
+<br>
 
 <!-- Node.js -->
-<div style="display:inline-block; background:linear-gradient(135deg,#161B22,#0D1117); border:1px solid #30363D; border-radius:12px; padding:14px 18px; margin:8px; min-width:200px; box-shadow:0 4px 20px rgba(191,145,243,0.10);">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" style="filter:drop-shadow(0 0 8px #339933)">
-    <span style="color:#F0F6FC; font-weight:700; font-size:14px; font-family:Segoe UI, sans-serif;">Node.js</span>
-    <span style="color:#BF91F3; font-weight:700; font-size:13px; margin-left:auto;">20%</span>
-  </div>
-  <div style="background:#21262D; border-radius:8px; height:8px; overflow:hidden;">
-    <div style="background:linear-gradient(90deg,#339933,#38BDF8); height:100%; width:20%; border-radius:8px;"></div>
-  </div>
-</div>
+<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" x="10" y="14" width="26" height="26"/>
+  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">Node.js</text>
+  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">20%</text>
+  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
+  <rect x="42" y="33" width="23.2" height="4" rx="2" fill="#339933"/>
+  <circle cx="170" cy="6" r="3.5" fill="#38BDF8" opacity="0.5"/>
+</svg>
 
 <!-- Python -->
-<div style="display:inline-block; background:linear-gradient(135deg,#161B22,#0D1117); border:1px solid #30363D; border-radius:12px; padding:14px 18px; margin:8px; min-width:200px; box-shadow:0 4px 20px rgba(56,189,248,0.10);">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" style="filter:drop-shadow(0 0 8px #3776AB)">
-    <span style="color:#F0F6FC; font-weight:700; font-size:14px; font-family:Segoe UI, sans-serif;">Python</span>
-    <span style="color:#BF91F3; font-weight:700; font-size:13px; margin-left:auto;">15%</span>
-  </div>
-  <div style="background:#21262D; border-radius:8px; height:8px; overflow:hidden;">
-    <div style="background:linear-gradient(90deg,#3776AB,#38BDF8); height:100%; width:15%; border-radius:8px;"></div>
-  </div>
-</div>
+<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" x="10" y="14" width="26" height="26"/>
+  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">Python</text>
+  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">15%</text>
+  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
+  <rect x="42" y="33" width="17.4" height="4" rx="2" fill="#3776AB"/>
+  <circle cx="170" cy="6" r="3.5" fill="#38BDF8" opacity="0.5"/>
+</svg>
 
 <!-- MySQL -->
-<div style="display:inline-block; background:linear-gradient(135deg,#161B22,#0D1117); border:1px solid #30363D; border-radius:12px; padding:14px 18px; margin:8px; min-width:200px; box-shadow:0 4px 20px rgba(191,145,243,0.10);">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30" style="filter:drop-shadow(0 0 8px #4479A1)">
-    <span style="color:#F0F6FC; font-weight:700; font-size:14px; font-family:Segoe UI, sans-serif;">MySQL</span>
-    <span style="color:#BF91F3; font-weight:700; font-size:13px; margin-left:auto;">10%</span>
-  </div>
-  <div style="background:#21262D; border-radius:8px; height:8px; overflow:hidden;">
-    <div style="background:linear-gradient(90deg,#4479A1,#38BDF8); height:100%; width:10%; border-radius:8px;"></div>
-  </div>
-</div>
+<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" x="10" y="14" width="26" height="26"/>
+  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">MySQL</text>
+  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">10%</text>
+  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
+  <rect x="42" y="33" width="11.6" height="4" rx="2" fill="#4479A1"/>
+  <circle cx="170" cy="6" r="3.5" fill="#38BDF8" opacity="0.5"/>
+</svg>
 
 <!-- TailwindCSS -->
-<div style="display:inline-block; background:linear-gradient(135deg,#161B22,#0D1117); border:1px solid #30363D; border-radius:12px; padding:14px 18px; margin:8px; min-width:200px; box-shadow:0 4px 20px rgba(56,189,248,0.12);">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="30" style="filter:drop-shadow(0 0 8px #06B6D4)">
-    <span style="color:#F0F6FC; font-weight:700; font-size:14px; font-family:Segoe UI, sans-serif;">TailwindCSS</span>
-    <span style="color:#BF91F3; font-weight:700; font-size:13px; margin-left:auto;">10%</span>
-  </div>
-  <div style="background:#21262D; border-radius:8px; height:8px; overflow:hidden;">
-    <div style="background:linear-gradient(90deg,#06B6D4,#38BDF8); height:100%; width:10%; border-radius:8px;"></div>
-  </div>
-</div>
+<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" x="10" y="14" width="26" height="26"/>
+  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">TailwindCSS</text>
+  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">10%</text>
+  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
+  <rect x="42" y="33" width="11.6" height="4" rx="2" fill="#06B6D4"/>
+  <circle cx="170" cy="6" r="3.5" fill="#38BDF8" opacity="0.5"/>
+</svg>
 
 <!-- Git -->
-<div style="display:inline-block; background:linear-gradient(135deg,#161B22,#0D1117); border:1px solid #30363D; border-radius:12px; padding:14px 18px; margin:8px; min-width:200px; box-shadow:0 4px 20px rgba(191,145,243,0.10);">
-  <div style="display:flex; align-items:center; gap:10px; margin-bottom:10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" style="filter:drop-shadow(0 0 8px #F05032)">
-    <span style="color:#F0F6FC; font-weight:700; font-size:14px; font-family:Segoe UI, sans-serif;">Git</span>
-    <span style="color:#BF91F3; font-weight:700; font-size:13px; margin-left:auto;">95%</span>
-  </div>
-  <div style="background:#21262D; border-radius:8px; height:8px; overflow:hidden;">
-    <div style="background:linear-gradient(90deg,#F05032,#BF91F3); height:100%; width:95%; border-radius:8px;"></div>
-  </div>
-</div>
+<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#F05032" stroke-width="1.2" stroke-opacity="0.35"/>
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" x="10" y="14" width="26" height="26"/>
+  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">Git</text>
+  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">95%</text>
+  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
+  <rect x="42" y="33" width="110.2" height="4" rx="2" fill="#F05032"/>
+  <circle cx="170" cy="6" r="3.5" fill="#BF91F3" opacity="0.6"/>
+</svg>
 
-</div>
+</p>
 
-> 💡 As porcentagens dos cards de estatísticas **atualizam automaticamente** conforme você adiciona novos repositórios. O gráfico de donut mostra exatamente quanto cada linguagem representa no seu GitHub. As conquistas acima refletem tanto o uso em repositórios quanto o domínio nas tecnologias do seu stack.
+> 💡 **% reais:** HTML5 (74.7%) e CSS3 (25.3%) vêm direto dos meus repositórios. As demais refletem meu nível de domínio no stack. O gráfico de donut na seção de estatísticas atualiza automaticamente.
 
 ---
 
