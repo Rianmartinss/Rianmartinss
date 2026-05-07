@@ -50,10 +50,49 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
 </p>
 
 
-### 📊 Estatísticas do GitHub
+### 🔥 ESTATÍSTICAS DO GITHUB
 
-<div align= "center">
- <img height="195" src="https://streak-stats.demolab.com/?user=Rianmartinss&hide_border=true&stroke=38BDF8&ring=BF91F3&fire=BF91F3&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=F0F6FC&background=0D1117&border_radius=12&locale=pt-br" />
+<br>
+
+<div align="center">
+  <a href="https://github.com/Rianmartinss">
+    <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=Rianmartinss&hide_border=true&stroke=38BDF8&ring=BF91F3&fire=BF91F3&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=F0F6FC&background=0D1117&border_radius=12&locale=pt-br&mode=weekly&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Rianmartinss">
+    <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rianmartinss&theme=react-dark&hide_border=true&border_radius=12&bg_color=0D1117&color=38BDF8&line=BF91F3&point=38BDF8&area=true&area_color=BF91F3&title_color=38BDF8&custom_title=Grade%20de%20Contribui%C3%A7%C3%B5es%20%E2%9A%A1&radius=8&days=60&height=320" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Rianmartinss">
+    <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rianmartinss&theme=tokyonight&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=F0F6FC" />
+  </a>
+  <a href="https://github.com/Rianmartinss">
+    <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rianmartinss&theme=tokyonight&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=F0F6FC" />
+  </a>
+  <a href="https://github.com/Rianmartinss">
+    <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rianmartinss&theme=tokyonight&utcOffset=-3&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=F0F6FC" />
+</div>
+<br>
+<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:BF91F3&height=3&section=footer" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rianmartinss/Rianmartinss/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rianmartinss/Rianmartinss/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 
