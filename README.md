@@ -119,16 +119,24 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img 
-    height="180em" 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=Rianmartinss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
-  />
-  <img 
-    height="180em" 
-    alt="Linguagens mais usadas" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rianmartinss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
-  />
+  <a href="https://github.com/Rianmartinss">
+    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Rianmartinss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8&bg_color=0D1117&locale=pt-br&border_radius=12" />
+  </a>
+  <a href="https://github.com/Rianmartinss">
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rianmartinss&layout=compact&langs_count=8&hide_border=true&title_color=70A5FD&text_color=38BDF8&bg_color=0D1117&locale=pt-br&border_radius=12" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Rianmartinss">
+    <img height="195em" src="https://streak-stats.demolab.com?user=Rianmartinss&theme=transparent&hide_border=true&locale=pt-br&background=0D1117&stroke=70A5FD&ring=BF91F3&fire=38BDF8&currStreakNum=FFFFFF&currStreakLabel=70A5FD&sideNums=38BDF8&sideLabels=BF91F3&dates=8B949E&border_radius=12&date_format=j%20M%20Y" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Rianmartinss">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rianmartinss&theme=github-dark&bg_color=0D1117&color=70A5FD&line=BF91F3&point=38BDF8&area=true&area_color=70A5FD&hide_border=true&radius=12&locale=pt-br" alt="Gráfico de contribuições" />
+  </a>
 </div>
 
 ---
