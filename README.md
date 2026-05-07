@@ -44,127 +44,35 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
 
 ---
 
-### 💎 Domínio Tech
+### 💎 Linguagens & Tecnologias
+
+<div align="center">
+  <a href="https://github.com/Rianmartinss">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rianmartinss&layout=compact&langs_count=10&hide_border=true&title_color=70A5FD&text_color=38BDF8&bg_color=0D1117&locale=pt-br&border_radius=12&card_width=500" />
+  </a>
+</div>
 
 <p align="center">
-
-<!-- HTML5 -->
-<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
-  <rect width="178" height="60" rx="8" fill="none" stroke="#E34F26" stroke-width="1.2" stroke-opacity="0.25"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" x="10" y="14" width="26" height="26"/>
-  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">HTML5</text>
-  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">74.7%</text>
-  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
-  <rect x="42" y="33" width="86.7" height="4" rx="2" fill="#E34F26"/>
-  <circle cx="170" cy="6" r="3.5" fill="#BF91F3" opacity="0.6"/>
-</svg>
-
-<!-- CSS3 -->
-<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
-  <rect width="178" height="60" rx="8" fill="none" stroke="#1572B6" stroke-width="1.2" stroke-opacity="0.25"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" x="10" y="14" width="26" height="26"/>
-  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">CSS3</text>
-  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">25.3%</text>
-  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
-  <rect x="42" y="33" width="29.3" height="4" rx="2" fill="#1572B6"/>
-  <circle cx="170" cy="6" r="3.5" fill="#BF91F3" opacity="0.6"/>
-</svg>
-
-<!-- JavaScript -->
-<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#F7DF1E" stroke-width="1.2" stroke-opacity="0.3"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" x="10" y="14" width="26" height="26"/>
-  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">JavaScript</text>
-  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">40%</text>
-  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
-  <rect x="42" y="33" width="46.4" height="4" rx="2" fill="#F7DF1E"/>
-  <circle cx="170" cy="6" r="3.5" fill="#38BDF8" opacity="0.5"/>
-</svg>
-
-<!-- TypeScript -->
-<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" x="10" y="14" width="26" height="26"/>
-  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">TypeScript</text>
-  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">30%</text>
-  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
-  <rect x="42" y="33" width="34.8" height="4" rx="2" fill="#3178C6"/>
-  <circle cx="170" cy="6" r="3.5" fill="#38BDF8" opacity="0.5"/>
-</svg>
-
-<!-- React -->
-<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" x="10" y="14" width="26" height="26"/>
-  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">React</text>
-  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">25%</text>
-  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
-  <rect x="42" y="33" width="29.0" height="4" rx="2" fill="#61DAFB"/>
-  <circle cx="170" cy="6" r="3.5" fill="#38BDF8" opacity="0.5"/>
-</svg>
-
-<br>
-
-<!-- Node.js -->
-<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" x="10" y="14" width="26" height="26"/>
-  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">Node.js</text>
-  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">20%</text>
-  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
-  <rect x="42" y="33" width="23.2" height="4" rx="2" fill="#339933"/>
-  <circle cx="170" cy="6" r="3.5" fill="#38BDF8" opacity="0.5"/>
-</svg>
-
-<!-- Python -->
-<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" x="10" y="14" width="26" height="26"/>
-  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">Python</text>
-  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">15%</text>
-  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
-  <rect x="42" y="33" width="17.4" height="4" rx="2" fill="#3776AB"/>
-  <circle cx="170" cy="6" r="3.5" fill="#38BDF8" opacity="0.5"/>
-</svg>
-
-<!-- MySQL -->
-<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" x="10" y="14" width="26" height="26"/>
-  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">MySQL</text>
-  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">10%</text>
-  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
-  <rect x="42" y="33" width="11.6" height="4" rx="2" fill="#4479A1"/>
-  <circle cx="170" cy="6" r="3.5" fill="#38BDF8" opacity="0.5"/>
-</svg>
-
-<!-- TailwindCSS -->
-<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.2"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" x="10" y="14" width="26" height="26"/>
-  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">TailwindCSS</text>
-  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">10%</text>
-  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
-  <rect x="42" y="33" width="11.6" height="4" rx="2" fill="#06B6D4"/>
-  <circle cx="170" cy="6" r="3.5" fill="#38BDF8" opacity="0.5"/>
-</svg>
-
-<!-- Git -->
-<svg width="178" height="60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="178" height="60" rx="8" fill="#161B22" stroke="#F05032" stroke-width="1.2" stroke-opacity="0.35"/>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" x="10" y="14" width="26" height="26"/>
-  <text x="42" y="26" fill="#F0F6FC" font-size="11.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif">Git</text>
-  <text x="170" y="26" fill="#BF91F3" font-size="10.5" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" text-anchor="end">95%</text>
-  <rect x="42" y="33" width="116" height="4" rx="2" fill="#21262D"/>
-  <rect x="42" y="33" width="110.2" height="4" rx="2" fill="#F05032"/>
-  <circle cx="170" cy="6" r="3.5" fill="#BF91F3" opacity="0.6"/>
-</svg>
-
+  <img alt="HTML5" title="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  &nbsp;
+  <img alt="CSS3" title="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  &nbsp;
+  <img alt="JavaScript" title="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  &nbsp;
+  <img alt="TypeScript" title="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  &nbsp;
+  <img alt="React" title="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  &nbsp;
+  <img alt="Node.js" title="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  &nbsp;
+  <img alt="Python" title="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  &nbsp;
+  <img alt="MySQL" title="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  &nbsp;
+  <img alt="TailwindCSS" title="TailwindCSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  &nbsp;
+  <img alt="Git" title="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
-
-> 💡 **% reais:** HTML5 (74.7%) e CSS3 (25.3%) vêm direto dos meus repositórios. As demais refletem meu nível de domínio no stack. O gráfico de donut na seção de estatísticas atualiza automaticamente.
 
 ---
 
