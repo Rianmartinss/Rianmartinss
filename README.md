@@ -52,10 +52,9 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Rianmartinss&show_icons=true&hide=contribs&include_all_commits=true&count_private=true&hide_border=true&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8&bg_color=0D1117&locale=pt-br&border_radius=12" />
-  <img height="195" src="https://streak-stats.demolab.com/?user=Rianmartinss&hide_border=true&stroke=38BDF8&ring=BF91F3&fire=BF91F3&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=F0F6FC&background=0D1117&border_radius=12&locale=pt-br" />
-</p>
+<div align= "center">
+ <img height="195" src="https://streak-stats.demolab.com/?user=Rianmartinss&hide_border=true&stroke=38BDF8&ring=BF91F3&fire=BF91F3&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=F0F6FC&background=0D1117&border_radius=12&locale=pt-br" />
+</div>
 
 
 
