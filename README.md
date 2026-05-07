@@ -11,46 +11,7 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
 </div>
 
 ---
-
-### 🌐 Conecte-se comigo
-
-<p align="left">
-  <a href="">
-    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Rianmartinss">
-    <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:rianmartinsmvp@gmail.com">
-    <img alt="E-mail" title="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/Rianmartinss">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Rianmartinss&show_icons=true&hide=contribs&include_all_commits=true&count_private=true&hide_border=true&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8&bg_color=0D1117&locale=pt-br&border_radius=12" />
-  </a>
-  <a href="https://github.com/Rianmartinss">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rianmartinss&layout=donut&langs_count=8&hide_border=true&title_color=70A5FD&text_color=38BDF8&bg_color=0D1117&locale=pt-br&border_radius=12" />
-  </a>
-  <a href="https://github.com/Rianmartinss">
-    <img height="195em" src="https://streak-stats.demolab.com/?user=Rianmartinss&hide_border=true&stroke=38BDF8&ring=BF91F3&fire=BF91F3&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=F0F6FC&background=0D1117&border_radius=12&locale=pt-br" />
-  </a>
-</div>
-
----
-
 ### 💎 Linguagens & Tecnologias
-
-<div align="center">
-  <a href="https://github.com/Rianmartinss">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rianmartinss&layout=compact&langs_count=10&hide_border=true&title_color=70A5FD&text_color=38BDF8&bg_color=0D1117&locale=pt-br&border_radius=12&card_width=500" />
-  </a>
-</div>
 
 <p align="center">
   <img alt="HTML5" title="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -73,6 +34,34 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
   &nbsp;
   <img alt="Git" title="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
+
+### 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="">
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Rianmartinss">
+    <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rianmartinsmvp@gmail.com">
+    <img alt="E-mail" title="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+### 📊 Estatísticas do GitHub
+
+<div align= "center">
+    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Rianmartinss&show_icons=true&hide=contribs&include_all_commits=true&count_private=true&hide_border=true&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8&bg_color=0D1117&locale=pt-br&border_radius=12" />
+ 
+
+
+  <img height="195em" src="https://streak-stats.demolab.com/?user=Rianmartinss&hide_border=true&stroke=38BDF8&ring=BF91F3&fire=BF91F3&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=F0F6FC&background=0D1117&border_radius=12&locale=pt-br" />
+</div>
+
+
+
 
 ---
 
