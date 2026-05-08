@@ -55,7 +55,7 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
 </div>
 <div align="center">
   <a href="https://github.com/Rianmartinss">
-    <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rianmartinss&theme=react-dark&hide_border=true&border_radius=12&bg_color=0D1117&color=38BDF8&line=BF91F3&point=38BDF8&area=true&area_color=BF91F3&title_color=38BDF8&custom_title=Grade%20de%20Contribui%C3%A7%C3%B5es%20%E2%9A%A1&radius=8&days=60&height=320" />
+    <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rianmartinss&cache_seconds=1800&theme=react-dark&hide_border=true&border_radius=12&bg_color=0D1117&color=38BDF8&line=BF91F3&point=38BDF8&area=true&area_color=BF91F3&title_color=38BDF8&custom_title=Grade%20de%20Contribui%C3%A7%C3%B5es%20%E2%9A%A1&radius=8&days=60&height=320" />
   </a>
 </div>
 
@@ -63,10 +63,10 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
 
 <div align="center">
   <a href="https://github.com/Rianmartinss">
-    <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rianmartinss&theme=tokyonight&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=F0F6FC" />
+    <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rianmartinss&cache_seconds=1800&theme=tokyonight&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=F0F6FC" />
   </a>
   <a href="https://github.com/Rianmartinss">
-    <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rianmartinss&theme=tokyonight&utcOffset=-3&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=F0F6FC" />
+    <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rianmartinss&cache_seconds=1800&theme=tokyonight&utcOffset=-3&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=F0F6FC" />
 </div>
 <br>
 <div align="center">
