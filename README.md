@@ -1,9 +1,17 @@
 # 👨‍💻 Rian Martins dos Santos
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rianmartinss&color=38BDF8&style=for-the-badge&label=👁️+Visitas+ao+perfil" alt="Contador de visitas" />
+  &nbsp;
+  <a href="">
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:rianmartinsmvp@gmail.com">
+    <img alt="E-mail" title="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
-**`Desenvolvedor FullStack Júnior`**
+  **`Desenvolvedor FullStack Júnior`**
 
 Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado em Gestão de TI e estou em busca da minha primeira oportunidade como dev júnior. Gosto de construir interfaces limpas e funcionais, e tenho foco em entregar código bem estruturado. Estudo e pratico desenvolvimento web todos os dias, sempre buscando evoluir como profissional fullstack.
 
@@ -14,7 +22,7 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
 </div>
 
 ---
-### 💎 Linguagens & Tecnologias
+#### 💎 Linguagens & Tecnologias
 
 <p align="center">
   <img alt="HTML5" title="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -38,19 +46,7 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
   <img alt="Git" title="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
-### 🌐 Conecte-se comigo
-
-<p align="left">
-  <a href="">
-    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rianmartinsmvp@gmail.com">
-    <img alt="E-mail" title="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-
-### 🔥 ESTATÍSTICAS DO GITHUB
+#### 🔥 Estatísticas do Github
 
 <div align="center">
   <a href="https://github.com/Rianmartinss">
