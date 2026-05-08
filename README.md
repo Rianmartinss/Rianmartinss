@@ -25,6 +25,9 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
   <img alt="React" title="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   &nbsp;
   <img alt="Node.js" title="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  &nbsp;
+  <img alt="Next.js" title="Next.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  &nbsp;
   <img alt="MySQL" title="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   &nbsp;
   <img alt="TailwindCSS" title="TailwindCSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
@@ -37,9 +40,6 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
 <p align="left">
   <a href="">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Rianmartinss">
-    <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:rianmartinsmvp@gmail.com">
     <img alt="E-mail" title="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -103,6 +103,7 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rianmartinss&color=blue&style=flat-square&label=Visitas+ao+perfil" alt="Contador de visitas" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rianmartinss&color=38BDF8&style=for-the-badge&label=👁️+Visitas+ao+perfil" alt="Contador de visitas" />
+</div>
+  
