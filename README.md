@@ -25,9 +25,6 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
   <img alt="React" title="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   &nbsp;
   <img alt="Node.js" title="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  &nbsp;
-  <img alt="Python" title="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  &nbsp;
   <img alt="MySQL" title="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   &nbsp;
   <img alt="TailwindCSS" title="TailwindCSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
@@ -73,9 +70,6 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
 <div align="center">
   <a href="https://github.com/Rianmartinss">
     <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rianmartinss&theme=tokyonight&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=F0F6FC" />
-  </a>
-  <a href="https://github.com/Rianmartinss">
-    <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rianmartinss&theme=tokyonight&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=F0F6FC" />
   </a>
   <a href="https://github.com/Rianmartinss">
     <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rianmartinss&theme=tokyonight&utcOffset=-3&border_radius=12&bg_color=0D1117&title_color=38BDF8&text_color=F0F6FC" />
