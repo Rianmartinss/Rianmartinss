@@ -85,5 +85,3 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
 - 🎯 **Foco atual:** React, Node.js, TypeScript e SQL — construindo uma base sólida fullstack
 - 🚀 **Objetivo:** primeira vaga como Desenvolvedor Júnior, contribuindo com código limpo e bem estruturado
 - 📍 **Recife — PE**, aberto a oportunidades remotas e presenciais
-
-  
