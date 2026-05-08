@@ -1,4 +1,7 @@
 # 👨‍💻 Rian Martins dos Santos
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rianmartinss&color=38BDF8&style=for-the-badge&label=👁️+Visitas+ao+perfil" alt="Contador de visitas" />
+</div>
 
 **`Desenvolvedor FullStack Júnior`**
 
@@ -103,7 +106,5 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rianmartinss&color=38BDF8&style=for-the-badge&label=👁️+Visitas+ao+perfil" alt="Contador de visitas" />
-</div>
+
   
