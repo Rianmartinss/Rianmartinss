@@ -1,4 +1,4 @@
-# 👨‍💻 Rian Martins dos Santos
+# 💻 Rian Martins dos Santos
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Rianmartinss&color=38BDF8&style=for-the-badge&label=👁️+Visitas+ao+perfil" alt="Contador de visitas" />
   &nbsp;
@@ -22,7 +22,7 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
 </div>
 
 ---
-#### 💎 Linguagens & Tecnologias
+#### ⚡ Linguagens & Tecnologias
 
 <p align="center">
   <img alt="HTML5" title="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -46,7 +46,7 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
   <img alt="Git" title="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
-#### 🔥 Estatísticas do Github
+#### 📊 Estatísticas do Github
 
 <div align="center">
   <a href="https://github.com/Rianmartinss">
@@ -79,7 +79,7 @@ Sou um desenvolvedor de 23 anos, natural de Recife — Pernambuco. Sou formado e
   </picture>
 </div>
 
-### 📈 Minha trajetória
+#### 🧭 Minha trajetória
 
 - 🎓 **Tecnólogo em Gestão de TI** — unindo visão de negócios com desenvolvimento de software
 - 🎯 **Foco atual:** React, Node.js, TypeScript e SQL — construindo uma base sólida fullstack
